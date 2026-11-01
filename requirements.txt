@@ -1,0 +1,7 @@
+mcp==1.19.0
+pydantic==2.13.5
+fastapi
+uvicorn
+httpx
+regex
+tiktoken
